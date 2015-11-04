@@ -18,6 +18,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "prawn"
   s.add_dependency "prawn-table"
+  s.add_dependency "prawn-icon"
   s.add_dependency "rails", ">= 3.1.0"
   s.add_development_dependency "sqlite3"
   s.add_development_dependency "pdf-reader"
